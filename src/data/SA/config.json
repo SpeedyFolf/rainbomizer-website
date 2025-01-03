@@ -17,6 +17,10 @@
 	},
 	{
 		"id": 5,
+		"desc": "Configuration options marked with <code># Experimental</code> are not fully complete and will still have issues."
+	},
+	{
+		"id": 6,
 		"desc": "More information about how to configure specific randomizers is provided in the default config file."
 	}
 ]
