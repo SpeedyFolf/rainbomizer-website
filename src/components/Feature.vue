@@ -9,6 +9,8 @@
         <img :src="III  " v-if="data.isIII === true" />
         <img :src="VC" v-if="data.isVC === true" />
         <img :src="SA" v-if="data.isSA === true" />
+        <img :src="VCS" v-if="data.isVCS === true" />
+        <img :src="LCS" v-if="data.isLCS === true" />
         <img :src="IV" v-if="data.isIV === true" />
         <img :src="V" v-if="data.isV === true" />
     </div>
@@ -19,6 +21,8 @@
 import III from '../assets/III.svg'
 import VC from '../assets/VC.svg'
 import SA from '../assets/SA.svg'
+import VCS from '../assets/gtavcs.png'
+import LCS from '../assets/gtalcs.png'
 import IV from '../assets/IV.svg'
 import V from '../assets/V.svg'
 
@@ -27,9 +31,11 @@ export default {
     props: ["data"],
     data() {
         return {
-            SA,
             III,
             VC,
+            SA,
+            VCS,
+            LCS,
             IV,
             V
         }

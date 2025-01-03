@@ -10,7 +10,7 @@ Rainbomizer is a randomiser mod for several Grand Theft Auto games. The website 
 ## Repos
 
 - [GTA III](https://github.com/GTAMadman/GTA-III-Rainbomizer)
-- [GTA Vice City](https://github.com/GTAMadman/Vice-City-Rainbomizer)
+- [GTA: Vice City](https://github.com/GTAMadman/Vice-City-Rainbomizer)
 - [GTA: San Andreas](https://github.com/Parik27/SA.Rainbomizer)
 - [GTA: Vice City Stories](https://github.com/Parik27/VCS.Rainbomizer)
 - [GTA: Liberty City Stories](https://github.com/Parik27/LCS.Rainbomizer)
