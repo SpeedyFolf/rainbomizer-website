@@ -6,7 +6,7 @@
         <p>{{data.desc}}</p>
     </div>
     <div>
-        <img :src="III  " v-if="data.isIII === true" />
+        <img :src="III" v-if="data.isIII === true" />
         <img :src="VC" v-if="data.isVC === true" />
         <img :src="SA" v-if="data.isSA === true" />
         <img :src="VCS" v-if="data.isVCS === true" />
