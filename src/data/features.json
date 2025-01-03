@@ -15,8 +15,9 @@
 		"isIII": true,
 		"isVC": true,
 		"isSA": true,
-		"isIV": false,
-		"isV": false
+		"isVCS": true,
+		"isIV": true,
+		"isV": true
 	},
 	{
 		"title": "Parked Cars",
@@ -24,8 +25,9 @@
 		"isIII": true,
 		"isVC": true,
 		"isSA": true,
-		"isIV": false,
-		"isV": false
+		"isVCS": true,
+		"isIV": true,
+		"isV": true
 	},
 	{
 		"title": "Script Vehicles",
@@ -33,8 +35,9 @@
 		"isIII": true,
 		"isVC": true,
 		"isSA": true,
-		"isIV": false,
-		"isV": false
+		"isVCS": true,
+		"isIV": true,
+		"isV": true
 	},
 	{
 		"title": "Colours",
@@ -42,17 +45,19 @@
 		"isIII": true,
 		"isVC": true,
 		"isSA": true,
-		"isIV": false,
-		"isV": false
+		"isVCS": true,
+		"isIV": true,
+		"isV": true
 	},
 	{
 		"title": "Missions",
 		"desc": "Randomizes which mission is started by each mission marker. When the randomized mission is complete, the game progresses as if you completed the original.",
-		"isIII": false,
-		"isVC": false,
+		"isIII": true,
+		"isVC": true,
 		"isSA": true,
-		"isIV": false,
-		"isV": false
+		"isVCS": true,
+		"isIV": true,
+		"isV": true
 	},
 	{
 		"title": "Weapons",
@@ -60,35 +65,39 @@
 		"isIII": true,
 		"isVC": true,
 		"isSA": true,
-		"isIV": false,
-		"isV": false
+		"isVCS": true,
+		"isIV": true,
+		"isV": true
 	},
 	{
 		"title": "Pickups",
 		"desc": "Randomizes weapon pickups scattered around the map, as well as the appearance of certain other types of pickups.",
-		"isIII": false,
-		"isVC": false,
+		"isIII": true,
+		"isVC": true,
 		"isSA": true,
+		"isVCS": true,
 		"isIV": false,
 		"isV": false
 	},
 	{
 		"title": "Voice Lines",
 		"desc": "Randomizes dialogues spoken by characters in missions.",
-		"isIII": false,
+		"isIII": true,
 		"isVC": true,
 		"isSA": true,
-		"isIV": false,
-		"isV": false
+		"isVCS": true,
+		"isIV": true,
+		"isV": true
 	},
 	{
 		"title": "Cutscenes",
 		"desc": "Randomizes the models used in motion-captured cutscenes, as well as the location in which they take place.",
-		"isIII": false,
-		"isVC": false,
+		"isIII": true,
+		"isVC": true,
 		"isSA": true,
-		"isIV": false,
-		"isV": false
+		"isVCS": true,
+		"isIV": true,
+		"isV": true
 	},
 	{
 		"title": "Blips",
@@ -96,6 +105,7 @@
 		"isIII": false,
 		"isVC": false,
 		"isSA": true,
+		"isVCS": false,
 		"isIV": false,
 		"isV": false
 	},
@@ -105,15 +115,17 @@
 		"isIII": false,
 		"isVC": false,
 		"isSA": true,
+		"isVCS": false,
 		"isIV": false,
 		"isV": false
 	},
 	{
-		"title": "Dyom",
-		"desc": "Adds an option to download and play a random mission from the dyom website.",
+		"title": "DYOM",
+		"desc": "Adds an option to download and play a random mission from the DYOM (Design Your Own Mission) website.",
 		"isIII": false,
 		"isVC": false,
 		"isSA": true,
+		"isVCS": false,
 		"isIV": false,
 		"isV": false
 	},
@@ -123,8 +135,9 @@
 		"isIII": false,
 		"isVC": false,
 		"isSA": true,
+		"isVCS": false,
 		"isIV": false,
-		"isV": false
+		"isV": true
 	},
 	{
 		"title": "Cheat",
@@ -132,7 +145,8 @@
 		"isIII": false,
 		"isVC": false,
 		"isSA": true,
-		"isIV": false,
+		"isVCS": false,
+		"isIV": true,
 		"isV": false
 	},
 	{
@@ -141,17 +155,19 @@
 		"isIII": false,
 		"isVC": false,
 		"isSA": true,
+		"isVCS": false,
 		"isIV": false,
-		"isV": false
+		"isV": true
 	},
 	{
 		"title": "Handling",
-		"desc": "Shuffles the handlings of vehicles",
+		"desc": "Shuffles the handlings of vehicles.",
 		"isIII": false,
 		"isVC": false,
 		"isSA": true,
+		"isVCS": false,
 		"isIV": false,
-		"isV": false
+		"isV": true
 	},
 	{
 		"title": "Particles",
@@ -159,6 +175,7 @@
 		"isIII": false,
 		"isVC": false,
 		"isSA": true,
+		"isVCS": false,
 		"isIV": false,
 		"isV": false
 	},
@@ -168,8 +185,9 @@
 		"isIII": false,
 		"isVC": false,
 		"isSA": true,
+		"isVCS": false,
 		"isIV": false,
-		"isV": false
+		"isV": true
 	},
 	{
 		"title": "Objects",
@@ -177,7 +195,8 @@
 		"isIII": false,
 		"isVC": false,
 		"isSA": true,
-		"isIV": false,
+		"isVCS": false,
+		"isIV": true,
 		"isV": false
 	},
 	{
@@ -186,6 +205,7 @@
 		"isIII": false,
 		"isVC": false,
 		"isSA": true,
+		"isVCS": false,
 		"isIV": false,
 		"isV": false
 	},
@@ -195,6 +215,27 @@
 		"isIII": false,
 		"isVC": false,
 		"isSA": true,
+		"isVCS": false,
+		"isIV": false,
+		"isV": true
+	},
+	{
+		"title": "Pager",
+		"desc": "Randomizes messages received through the pager/beeper.",
+		"isIII": true,
+		"isVC": false,
+		"isSA": false,
+		"isVCS": false,
+		"isIV": false,
+		"isV": false
+	},
+	{
+		"title": "Chunk",
+		"desc": "Randomizes chunks of the map for a unique world layout.",
+		"isIII": false,
+		"isVC": false,
+		"isSA": false,
+		"isVCS": true,
 		"isIV": false,
 		"isV": false
 	}
