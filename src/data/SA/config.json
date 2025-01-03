@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"desc": "If you wish to change any of the mod's functionalities, for example to disable a specific randomizer, a configuration file <code>config.toml</code> has been provided with the mod. The config file is located in the rainbomizer folder in the game's root directory."
+	},
+	{
+		"id": 2,
+		"desc": "The default configuration file is in the main repository, <code>config.toml</code>, and is automatically created by the mod if it doesn't exist in the rainbomizer folder."
+	},
+	{
+		"id": 3,
+		"desc": "The configuration file is in the TOML format. It is similar in structure to INI's, but with a defined and better structure."
+	},
+	{
+		"id": 4,
+		"desc": "To configure a specific randomizer, search for its name in the configuration file. You can set the <code>Enabled</code> key to <code>true</code> or <code>false</code> to enable or disable it respectively."
+	},
+	{
+		"id": 5,
+		"desc": "More information about how to configure specific randomizers is provided in the default config file."
+	}
+]

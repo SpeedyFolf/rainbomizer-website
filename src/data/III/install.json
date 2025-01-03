@@ -1,0 +1,17 @@
+[
+	{
+		"id": 1,
+		"title": "Make sure your copy is v1.00",
+		"desc": "Other versions of the game <b>will not work</b> and will most likely cause a crash.<br /><br />You can <a href='https://mega.nz/file/4fE2VDZT#7inaHTvLsfdM9SNUjyKfpjoe9h0RDD6lIGyymQ7-n2w' class='link'>download v1.0 EXE here</a>"
+	},
+	{
+		"id": 2,
+		"title": "Extract mod into GTA file folder",
+		"desc": "Find your game files and put the ASI and CFG there. <br /><br />It's usually in <code>C:\\\\Program Files (x86)\\\\</code> folder.<br /><br /> If you have Steam version you shoud check <code>C:\\\\Program Files (x86)\\\\Steam\\\\steamapps\\\\common\\\\</code>"
+	},
+	{
+		"id": 3,
+		"title": "Voilà, now everything is rainbomized.",
+		"desc": "Now you can enjoy all this rainbomized stuff all over Liberty City."
+	}
+]

@@ -1,38 +1,38 @@
 {
-  "name": "rainbomizer-website",
-  "version": "1.0.0",
-  "description": "Rainbomizer is a randomiser mod for several Grand Theft Auto games. The website is a simple all-in-one place to get it rather than going to their separate GitHub repositories.",
-  "main": "vite.config.js",
-  "directories": {
-    "test": "tests"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SpeedyFolf/rainbomizer-website.git"
-  },
-  "keywords": [],
-  "author": "SpeedyFolf",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/SpeedyFolf/rainbomizer-website/issues"
-  },
-  "homepage": "https://github.com/SpeedyFolf/rainbomizer-website#readme",
-  "dependencies": {
-    "core-js": "^3.39.0",
-    "vue": "^3.5.13",
-    "vue-router": "^4.5.0"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.26.0",
-    "@babel/preset-env": "^7.26.0",
-    "babel-loader": "^9.2.1",
-    "vue-loader": "^17.4.2",
-    "vue-template-compiler": "^2.7.16",
-    "webpack": "^5.97.1",
-    "webpack-cli": "^6.0.1",
-    "webpack-dev-server": "^5.2.0"
-  }
+	"name": "rainbomizer-website",
+	"version": "1.0.0",
+	"description": "Rainbomizer is a randomiser mod for several Grand Theft Auto games. The website is a simple all-in-one place to get it rather than going to their separate GitHub repositories.",
+	"main": "vite.config.js",
+	"directories": {
+		"test": "tests"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/SpeedyFolf/rainbomizer-website.git"
+	},
+	"keywords": [],
+	"author": "SpeedyFolf",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/SpeedyFolf/rainbomizer-website/issues"
+	},
+	"homepage": "https://github.com/SpeedyFolf/rainbomizer-website#readme",
+	"dependencies": {
+		"core-js": "^3.39.0",
+		"vue": "^3.5.13",
+		"vue-router": "^4.5.0"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.26.0",
+		"@babel/preset-env": "^7.26.0",
+		"babel-loader": "^9.2.1",
+		"vue-loader": "^17.4.2",
+		"vue-template-compiler": "^2.7.16",
+		"webpack": "^5.97.1",
+		"webpack-cli": "^6.0.1",
+		"webpack-dev-server": "^5.2.0"
+	}
 }
